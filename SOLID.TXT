@@ -1,0 +1,18 @@
+SOLID Single Responsibility Principle
+
+S - Single Responsibility Principle
+Princípio da Responbilidade Única
+
+- Nunca deve haver mais de um motivo para uma classe mudar.
+
+
+O - Open / Closed Principle
+Princípio Aberto/ Fechado  OCP
+
+- Aberto para extensao e Fechado para modificacao
+
+
+L - Liskov Substitution Principle
+Princípio da Substituicao de Liskov  LSP
+
+- Uma classe derivada pode ser substituivel por sua classe base
