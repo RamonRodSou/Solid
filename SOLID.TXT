@@ -17,7 +17,14 @@ Princípio da Substituicao de Liskov  LSP
 
 - Uma classe derivada pode ser substituivel por sua classe base
 
+
 I - Interface Segregation Principle
 Principio da Segregacao de Interfaces   ISP
 
 - Classses nao devem ser forçadas a depender de método que nao usam
+
+D - Dependency Inversion Principle
+Princípio da Inversão de Dependencia    DIP
+
+- Módulos de alto nível não devem depender de módulos de baixo nível.
+Ambos devem depender de abstraçoes; Abstrações não devem depender de detalhes
